@@ -1,4 +1,4 @@
-package uk.serc.customers;
+package uk.ac.serc.customers;
 
 import static org.junit.Assert.assertTrue;
 

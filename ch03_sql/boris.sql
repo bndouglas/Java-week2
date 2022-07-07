@@ -2,7 +2,6 @@
 SELECT * 
 FROM tflStations  --410 rows
 
-
 SELECT * 
 from tflBikeUsage -- 21,200 rows
 
